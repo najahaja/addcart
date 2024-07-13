@@ -25,9 +25,11 @@ https://www.linkedin.com/posts/ahamed-najah-269011249_reactjs-webdevelopment-fro
       ```bash
 2.Navigate to the project directory:
       ```bash
-cd FoodOrderingAddToCart
+cd addcart
+
          ```bash
 3.Install the dependencies:
+
    ```bash
 npm install
    ```bash

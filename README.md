@@ -24,15 +24,16 @@ https://www.linkedin.com/posts/ahamed-najah-269011249_reactjs-webdevelopment-fro
    git clone https://github.com/najahaja/addcart.git
   
 2.Navigate to the project directory:
-     
-   cd addcart
+     ```bash
+      cd addcart
 
         
 3.Install the dependencies:
+      ```bash
 
 
-   npm install
-  
+      npm install
+     
 4.Start the development server:
-
-   npm run dev
+      ```bash
+      npm run dev

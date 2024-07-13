@@ -21,10 +21,16 @@ https://www.linkedin.com/posts/ahamed-najah-269011249_reactjs-webdevelopment-fro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/najahaja/FoodOrderingAddToCart.git
+   git clone https://github.com/najahaja/addcart.git
+      ```bash
 2.Navigate to the project directory:
+   ```bash
 cd FoodOrderingAddToCart
+   ```bash
 3.Install the dependencies:
+   ```bash
 npm install
+   ```bash
 4.Start the development server:
+   ```bash
 npm run dev

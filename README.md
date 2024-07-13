@@ -24,9 +24,9 @@ https://www.linkedin.com/posts/ahamed-najah-269011249_reactjs-webdevelopment-fro
    git clone https://github.com/najahaja/addcart.git
       ```bash
 2.Navigate to the project directory:
-   ```bash
+      ```bash
 cd FoodOrderingAddToCart
-   ```bash
+         ```bash
 3.Install the dependencies:
    ```bash
 npm install

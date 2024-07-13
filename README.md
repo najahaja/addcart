@@ -25,14 +25,14 @@ https://www.linkedin.com/posts/ahamed-najah-269011249_reactjs-webdevelopment-fro
   
 2.Navigate to the project directory:
      
-cd addcart
+   cd addcart
 
         
 3.Install the dependencies:
 
 
-npm install
+   npm install
   
 4.Start the development server:
 
-npm run dev
+   npm run dev

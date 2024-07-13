@@ -25,6 +25,7 @@ https://www.linkedin.com/posts/ahamed-najah-269011249_reactjs-webdevelopment-fro
   
 2.Navigate to the project directory:
      ```bash
+     
       cd addcart
 
         
@@ -36,4 +37,5 @@ https://www.linkedin.com/posts/ahamed-najah-269011249_reactjs-webdevelopment-fro
      
 4.Start the development server:
       ```bash
+      
       npm run dev
